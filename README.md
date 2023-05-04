@@ -1,9 +1,7 @@
-# package_name
+# Image processing package
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+Package made in Python for image processing
 
 ## Installation
 
@@ -21,7 +19,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Jacqueline
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
